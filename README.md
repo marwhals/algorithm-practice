@@ -1,0 +1,1 @@
+Repo to practice algorithms via the Algorithm Design Manual by Steven Skiena
